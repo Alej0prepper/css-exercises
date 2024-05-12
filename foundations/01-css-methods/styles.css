@@ -1,0 +1,11 @@
+div{
+    background-color: green; /* Cambia el color de fondo */
+    height: 10%; /* Altura */
+    width: 80%; /* Ancho */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    position: relative;
+    /* top: 50%; */
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
