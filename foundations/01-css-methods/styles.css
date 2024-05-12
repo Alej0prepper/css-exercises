@@ -1,11 +1,13 @@
+/* a red background, white text, a font size of 32px, center aligned, and bold */
 div{
-    background-color: green; /* Cambia el color de fondo */
+    background-color: red; /* Cambia el color de fondo */
+    color: white;
+    font-size: 32px;
     height: 10%; /* Altura */
     width: 80%; /* Ancho */
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
     position: relative;
-    /* top: 50%; */
+    top: 1%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
